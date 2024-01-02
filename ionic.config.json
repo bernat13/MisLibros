@@ -1,0 +1,7 @@
+{
+  "name": "MisLibros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
